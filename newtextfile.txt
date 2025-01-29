@@ -1,1 +1,5 @@
 Doing modification in this text file
+
+
+update of the 'new txt file' in the 'hotfix'
+branch.
